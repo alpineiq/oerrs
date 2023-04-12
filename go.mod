@@ -1,4 +1,4 @@
-module go.oneofone.dev/oerrs
+module github.com/alpineiq/oerrs
 
 go 1.18
 
